@@ -1,4 +1,4 @@
-<Hotel xmlns="http://venus.sod.asu.edu/WSRepository/xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml Courses.xsd">
+<Hotel xmlns="http://abumgar3.github.io" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://abumgar3.github.io Hotels.xsd">
   <Hotel>
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
