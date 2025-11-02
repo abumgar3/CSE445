@@ -1,1 +1,135 @@
-
+<Hotel xmlns="http://venus.sod.asu.edu/WSRepository/xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml Courses.xsd">
+  <Hotel>
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address>
+      <Number>11</Number>
+      <Street>E. 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+    <Rating>4.2</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Marriott</Name>
+    <Phone>999-999-9999</Phone>
+    <Address>
+      <Number>2212</Number>
+      <Street>W. Forest Ave</Street>
+      <State>AZ</State>
+      <Zip>85221</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Sunnyside</Name>
+    <Phone>324-432-1342</Phone>
+    <Phone>135-222-1234</Phone>
+    <Address>
+      <Number>999</Number>
+      <Street>N. San Angelo St</Street>
+      <City>Brookline</City>
+      <State>MA</State>
+      <Zip>22222</Zip>
+      <NearestAirport>Logan International</NearestAirport>
+    </Address>
+    <Rating>1.1</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Piedmont</Name>
+    <Phone>480-968-8885</Phone>
+    <Address>
+      <Number>123</Number>
+      <Street>S. 4th Ave</Street>
+      <City>Dallas</City>
+      <State>TX</State>
+      <Zip>12345</Zip>
+      <NearestAirport>Dallas Fort Worth</NearestAirport>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Holiday Inn</Name>
+    <Phone>122-322-5357</Phone>
+    <Address>
+      <Number>49</Number>
+      <Street>E. 24th St</Street>
+      <City>Juneau</City>
+      <State>AK</State>
+      <Zip>92849</Zip>
+  </Hotel>
+  <Hotel>
+    <Name>Hyatt</Name>
+    <Name>Wyatt</Name>
+    <Phone>355-234-2432</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address>
+      <Number>11341</Number>
+      <Street>N. Saddle Ct</Street>
+      <City>Greensboro</City>
+      <State>NC</State>
+      <Zip>62553</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Hilton</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address>
+      <Number>121</Number>
+      <Street>E. 1st Ave</Street>
+      <City>Philidelphia</City>
+      <State>PA</State>
+      <Zip>43367</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Comfort Inn</Name>
+    <Phone>565-680-1223</Phone>
+    <Phone>943-257-2076</Phone>
+    <Address>
+      <Number>75</Number>
+      <Street>S. 8th St</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>24253</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Four Seasons</Name>
+    <Phone>237-346-9797</Phone>
+    <Address>
+      <Number>345</Number>
+      <Street>N. 74th St</Street>
+      <City>New York City</City>
+      <State>NY</State>
+      <Zip>10023</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Hampton</Name>
+    <Phone>100-123-2424</Phone>
+    <Address>
+      <Number>5689</Number>
+      <Street>E. Main St</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>85643</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+    <Rating>3.7</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Renaissance</Name>
+    <Address>
+      <Number>568</Number>
+      <Street>N. Vista Ave</Street>
+      <City>Portland</City>
+      <State>OR</State>
+      <Zip>25746</Zip>
+    </Address>
+    <Rating>4.9</Rating>
+  </Hotel>
+</Hotel>
